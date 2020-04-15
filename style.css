@@ -1,0 +1,53 @@
+h1 {
+    text-align: center;
+}
+
+.first {
+    color: red;
+}
+
+.second {
+    color: blue;
+}
+
+.third {
+    color: green;
+}
+
+.bigfont {
+    font-size: xx-large;
+}
+
+.tinyfont {
+    font-size: xx-small;
+}
+
+.pcenter {
+    text-align: center;
+}
+
+.pbold {
+    font-weight: bold;
+}
+
+.pfont {
+    font-style: italic;
+}
+
+.pcombine {
+    font-size: xx-large;
+    color: orange;
+    font-weight: bold;
+}
+
+.styledFont {
+    font-size: large;
+    color: red;
+    font-weight: bold;
+}
+
+#styledImage {
+    border-width: thick;
+    border-style: double; 
+    border-color: black;   
+}
